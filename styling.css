@@ -1,0 +1,129 @@
+html{
+    background: rgb(255, 251, 4)
+    ;
+}
+
+
+.navbar {
+    background-color: rgb(2, 0, 0);
+    border-radius: 60px;
+    border: 3px solid rgb(12, 241, 241);
+    height: 75px;
+    margin-bottom: 15px;
+ }
+
+.navbar ul {
+    overflow: auto;
+}
+
+.navbar li {
+    float: left;
+    list-style: none;
+    text-decoration: none;
+    margin: 13px;
+    padding: 1px;
+}
+
+.navbar li a {
+    text-decoration: none;
+    color: azure;
+
+}
+#start{
+    border: 5px solid black;
+    border-radius: 25px;
+    height: 710px;
+    background-color:black;
+    
+}
+#main {
+    background-color: aqua;
+    
+    padding: 3px;
+    margin: 3px;
+    border: 5px solid rgb(0, 0, 0);
+    border-radius: 150px;
+}
+#photo {
+    height: 100pxpx;
+    width: 400px;
+    margin-left: 150px;
+    margin-top: 25px;
+    border: 5px solid black;
+    border-radius: 15px;
+}
+#bgedu {
+    display: flex;
+    color: black;
+    border: 5px solid rgba(235, 11, 11,);
+    border-radius: 15px;
+    height: 200px;
+    display: inline;
+}
+#he{
+    float: right;
+    position: relative;
+    right: 200px;
+    font-size: 35px;
+    color: rgb(247, 4, 4);
+    border: 3px solid rgb(0, 0, 0);
+    text-align: center;
+    width:400px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace ,pre;
+}
+#edu{
+    color: aqua;
+    border: 5px solid aqua;
+    width: 1200px;
+    text-align: center;
+    background: black;
+    position: relative;
+    font-size: 75px;
+    }
+
+    #info{
+        padding-right : 50px;
+    }
+
+ 
+#heading{
+       position: relative;
+       left: 45%;
+       bottom: 400px;
+       width: 700px;
+       border: 5px solid aqua;
+       color: aqua;
+       text-align: center;
+       border-radius: 35px;
+   }  
+   h2:hover{
+    opacity: 0.8;
+}
+#school{
+    display: flex;
+    background-color: black;
+    border: 10px solid black;
+    margin: 35px;
+    }
+#school h2{
+    margin: 100px;
+color: aqua;
+background: black;
+font-size: 50px;
+}
+
+copyright1{
+  position: relative;
+  left: 40%;
+  font-size: 25px;
+  color: rgb(0, 0, 0);
+}
+.pic{
+    border: 5px solid aqua;
+    width: 45%;
+    
+}
+
+
+   
